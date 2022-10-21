@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Anggota
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Anggota\ here.\r\n\r\n\ @author\ (Tugas\ pbo)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nama\ alamat
+comment1.target=Anggota(java.lang.String,\ java.lang.String)
+comment2.params=nama
+comment2.target=void\ setNama(java.lang.String)
+comment3.params=alamat
+comment3.target=void\ setAlamat(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNama()
+comment5.params=
+comment5.target=java.lang.String\ getAlamat()
+comment6.params=
+comment6.target=float\ getSimpanan()
+comment7.params=uang
+comment7.target=void\ setor(float)
+comment8.params=uang
+comment8.target=void\ pinjam(float)
+numComments=9
